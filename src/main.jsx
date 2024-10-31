@@ -3,8 +3,9 @@ import { createRoot } from 'react-dom/client';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import App from './App';
 import SendDisponibilidade from './components/disponibilidades/SendDisponibilidade';
-import Admin from './components/Admin/Admin';
 import LogAdm from './components/login/LogAdm';
+import Admin from './components/Admin/AdminComponent';
+
 
 const root = createRoot(document.getElementById('root'));
 
