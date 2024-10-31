@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './LogAdm.css';
 import { Link, useNavigate } from 'react-router-dom';
-import Admin from '../admin/AdminComponent';
+import Admin from '../admin/Admin';
 
 const LogAdm = () => {
     const [nome, setNome] = useState(''); // Estado para o nome do usuário
