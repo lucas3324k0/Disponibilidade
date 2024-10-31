@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import App from './App';
 import SendDisponibilidade from './components/disponibilidades/SendDisponibilidade';
 import LogAdm from './components/login/LogAdm';
-import Admin from './components/Admin/Admin';
+import Admin from './components/admin/UserAdm';
 
 
 
