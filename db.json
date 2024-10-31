@@ -1,0 +1,32 @@
+{
+  "disponibilidades": [
+    {
+      "id": "94d4",
+      "nome": "Lucas",
+      "dias": "1, 4, 7",
+      "cargo": "Teclado",
+      "categoria": "Musico"
+    },
+    {
+      "id": "52ac",
+      "nome": "Lucas",
+      "dias": "1, 4, 7",
+      "cargo": "Teclado",
+      "categoria": "Musico"
+    },
+    {
+      "id": "4fef",
+      "nome": "Marcella",
+      "dias": "1, 4, 7",
+      "cargo": "Nenhum selecionado",
+      "categoria": "Backing"
+    },
+    {
+      "id": "784d",
+      "nome": "Lucas abreu",
+      "dias": "1, 4, 7",
+      "cargo": "Nenhum selecionado",
+      "categoria": "Backing_ministro"
+    }
+  ]
+}

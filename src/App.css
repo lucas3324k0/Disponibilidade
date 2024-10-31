@@ -1,0 +1,27 @@
+#root {
+  text-align: center;
+}
+
+body {  
+  color: rgba(255, 255, 255, 0.87);
+
+  background-color: #242424;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.disp {
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
