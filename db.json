@@ -1,32 +1,18 @@
 {
   "disponibilidades": [
     {
-      "id": "94d4",
-      "nome": "Lucas",
-      "dias": "1, 4, 7",
-      "cargo": "Teclado",
+      "id": "66fa",
+      "nome": "rt",
+      "dias": "twr",
+      "cargo": "Guitarra",
       "categoria": "Musico"
     },
     {
-      "id": "52ac",
-      "nome": "Lucas",
-      "dias": "1, 4, 7",
-      "cargo": "Teclado",
+      "id": "05db",
+      "nome": "rt",
+      "dias": "twr",
+      "cargo": "Nenhum selecionado",
       "categoria": "Musico"
-    },
-    {
-      "id": "4fef",
-      "nome": "Marcella",
-      "dias": "1, 4, 7",
-      "cargo": "Nenhum selecionado",
-      "categoria": "Backing"
-    },
-    {
-      "id": "784d",
-      "nome": "Lucas abreu",
-      "dias": "1, 4, 7",
-      "cargo": "Nenhum selecionado",
-      "categoria": "Backing_ministro"
     }
   ]
 }
